@@ -1,0 +1,72 @@
+10.09.2023 14:11:57,508 INFO  LoginPage:34 - Username is entered in username text box
+10.09.2023 14:11:58,025 INFO  LoginPage:37 - Pssword is entered in Password text box
+10.09.2023 14:11:58,385 INFO  LoginPage:40 - Login button is clicked.
+10.09.2023 14:12:00,580 INFO  HomePage:37 - profile Picture button is clicked.
+10.09.2023 14:12:03,837 INFO  HomePage:39 - Logout link is cliked.
+10.09.2023 21:56:42,296 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 21:56:42,469 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 21:56:42,646 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 21:56:44,625 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 21:56:46,636 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:15:22,720 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:15:23,494 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:15:23,855 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:15:25,712 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:15:28,176 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:17:16,522 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:17:17,297 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:17:17,633 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:17:19,889 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:17:21,448 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:18:29,404 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:18:30,044 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:18:30,419 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:18:32,477 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:18:34,345 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:20:00,503 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:20:00,900 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:20:01,060 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:20:03,021 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:20:04,845 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:25:00,396 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:25:01,201 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:25:01,601 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:25:03,653 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:25:05,700 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:29:01,635 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:29:02,333 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:29:02,714 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:29:04,760 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:29:07,004 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:37:44,746 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:37:45,560 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:37:45,927 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:37:47,830 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:37:49,847 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:38:58,198 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:38:59,001 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:38:59,388 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:39:01,646 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:39:04,337 INFO  HomePage:41 - Logout link is cliked.
+10.09.2023 22:42:14,511 INFO  LoginPage:35 - Username is entered in username text box
+10.09.2023 22:42:15,598 INFO  LoginPage:39 - Pssword is entered in Password text box
+10.09.2023 22:42:15,961 INFO  LoginPage:43 - Login button is clicked.
+10.09.2023 22:42:17,879 INFO  HomePage:38 - profile Picture button is clicked.
+10.09.2023 22:42:20,046 INFO  HomePage:41 - Logout link is cliked.
+13.09.2023 15:11:18,748 INFO  LoginPage:35 - Username is entered in username text box
+13.09.2023 15:11:19,756 INFO  LoginPage:39 - Pssword is entered in Password text box
+13.09.2023 15:11:20,216 INFO  LoginPage:43 - Login button is clicked.
+13.09.2023 15:11:21,984 INFO  HomePage:38 - profile Picture button is clicked.
+13.09.2023 15:11:24,494 INFO  HomePage:41 - Logout link is cliked.
+13.09.2023 15:42:13,108 INFO  LoginPage:35 - Username is entered in username text box
+13.09.2023 15:42:14,065 INFO  LoginPage:39 - Pssword is entered in Password text box
+13.09.2023 15:42:14,604 INFO  LoginPage:43 - Login button is clicked.
+13.09.2023 15:42:17,050 INFO  HomePage:37 - profile Picture button is clicked.
+13.09.2023 15:42:20,283 INFO  HomePage:41 - Logout link is cliked.
+22.09.2023 13:16:23,181 INFO  LoginPage:35 - Username is entered in username text box
+22.09.2023 13:18:03,665 INFO  LoginPage:35 - Username is entered in username text box
+22.09.2023 13:20:51,187 INFO  LoginPage:35 - Username is entered in username text box
+22.09.2023 13:20:52,036 INFO  LoginPage:39 - Pssword is entered in Password text box
+22.09.2023 13:20:52,395 INFO  LoginPage:43 - Login button is clicked.
+22.09.2023 13:20:54,177 INFO  HomePage:37 - profile Picture button is clicked.
+22.09.2023 13:20:56,150 INFO  HomePage:41 - Logout link is cliked.
