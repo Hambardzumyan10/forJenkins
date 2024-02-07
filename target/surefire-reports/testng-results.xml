@@ -1,25 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-28T13:48:50 IST" name="Suite" finished-at="2023-08-28T13:49:17 IST" duration-ms="27442">
+  <suite started-at="2024-02-06T16:29:15 AMT" name="Suite" finished-at="2024-02-06T16:29:36 AMT" duration-ms="21221">
     <groups>
     </groups>
-    <test started-at="2023-08-28T13:48:50 IST" name="Test" finished-at="2023-08-28T13:49:17 IST" duration-ms="27442">
-      <class name="com.test.OrangeHRMTest">
-        <test-method signature="login()[pri:0, instance:com.test.OrangeHRMTest@4659191b]" started-at="2023-08-28T13:48:50 IST" name="login" finished-at="2023-08-28T13:49:09 IST" duration-ms="19591" status="PASS">
+    <test started-at="2024-02-06T16:29:15 AMT" name="Test" finished-at="2024-02-06T16:29:36 AMT" duration-ms="21221">
+      <class name="com.test.LoginTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:15 AMT" name="start" finished-at="2024-02-06T16:29:21 AMT" duration-ms="6742" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="testAdmin()[pri:0, instance:com.test.OrangeHRMTest@4659191b]" started-at="2023-08-28T13:49:10 IST" name="testAdmin" finished-at="2023-08-28T13:49:15 IST" duration-ms="5929" status="PASS">
+        </test-method> <!-- start -->
+        <test-method signature="loginWithInValidUserNameAndInValidPassowrd()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:21 AMT" name="loginWithInValidUserNameAndInValidPassowrd" finished-at="2024-02-06T16:29:23 AMT" duration-ms="1428" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAdmin -->
-        <test-method signature="testLogout()[pri:0, instance:com.test.OrangeHRMTest@4659191b]" started-at="2023-08-28T13:49:15 IST" name="testLogout" finished-at="2023-08-28T13:49:17 IST" duration-ms="1644" status="PASS">
+        </test-method> <!-- loginWithInValidUserNameAndInValidPassowrd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:23 AMT" name="tearDown" finished-at="2024-02-06T16:29:23 AMT" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogout -->
-      </class> <!-- com.test.OrangeHRMTest -->
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:23 AMT" name="start" finished-at="2024-02-06T16:29:26 AMT" duration-ms="2548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginWithInValidUserNameAndValidPassowrd()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:26 AMT" name="loginWithInValidUserNameAndValidPassowrd" finished-at="2024-02-06T16:29:27 AMT" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidUserNameAndValidPassowrd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:27 AMT" name="tearDown" finished-at="2024-02-06T16:29:27 AMT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:27 AMT" name="start" finished-at="2024-02-06T16:29:30 AMT" duration-ms="2702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginWithValidUserNameAndInValidPassowrd()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:30 AMT" name="loginWithValidUserNameAndInValidPassowrd" finished-at="2024-02-06T16:29:32 AMT" duration-ms="1627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUserNameAndInValidPassowrd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:32 AMT" name="tearDown" finished-at="2024-02-06T16:29:32 AMT" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:32 AMT" name="start" finished-at="2024-02-06T16:29:34 AMT" duration-ms="2484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginWithValidUserNameAndValidPassowrd()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:34 AMT" name="loginWithValidUserNameAndValidPassowrd" finished-at="2024-02-06T16:29:36 AMT" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUserNameAndValidPassowrd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginTest@6eda5c9]" started-at="2024-02-06T16:29:36 AMT" name="tearDown" finished-at="2024-02-06T16:29:36 AMT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
